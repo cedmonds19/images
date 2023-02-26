@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cone</folder>
+	<filename>cone.63a21546-b17c-11ed-a78f-0871904bb75b.jpg</filename>
+	<path>C:\Users\cedmo\OneDrive\Documents\A.Senior\rnd\TFODCourse\Tensorflow\workspace\images\collectedimages\cone\cone.63a21546-b17c-11ed-a78f-0871904bb75b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>289</ymin>
+			<xmax>259</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
